@@ -7,8 +7,6 @@ Currently it has 5 types of blocks: Grass, Wood, Log, Glass and Dirt. You switch
 
 Preview
 
-Want to extend, develop modify?
-If you do so or just build a cool world. Please share it with me dbark@hey.com or https://twitter.com/barelydaniel
 
 In the project directory, you can run:
 
@@ -21,3 +19,7 @@ The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 This project was bootstrapped with Create React App.
+
+
+// Want to extend, develop modify?
+//If you do so or just build a cool world. Please share it with me dbark@hey.com or https://twitter.com/barelydaniel
