@@ -13,6 +13,7 @@ If you do so or just build a cool world. Please share it with me dbark@hey.com o
 In the project directory, you can run:
 
 npm install && npm start
+
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
